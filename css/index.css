@@ -232,6 +232,11 @@ a{
 .footer__datos{
     width: 600px;
 }
+.footer__datos a img{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
 .footer span{
     font-size: 20px;  
 }
