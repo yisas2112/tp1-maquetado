@@ -37,7 +37,7 @@ h2{
 }
 #nav{       
     height: 450px;
-    background-image: url(./images/paisaje5.jpg);     
+    background-image: url(/images/paisaje5.jpg);     
     
     
 }
@@ -146,7 +146,7 @@ a{
 
 #Kopakonan{
     padding: 30px 60px;     
-    background-image: url("./images/paisaje10.jpg"), url("./images/paisaje11.jpg"), url("./images/paisaje12.jpg");
+    background-image: url(/images/paisaje10.jpg), url(/images/paisaje11.jpg), url(/images/paisaje12.jpg);
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: top, center, bottom;   
     height: 2340px;
@@ -197,7 +197,7 @@ a{
     padding: 20px 60px;
     background-color: #373737;
     color: white;   
-    background-image: url(./images/paisaje13.jpg); 
+    background-image: url(/images/paisaje13.jpg); 
     box-sizing: border-box;
 }
 .Kopakonan__maldicion h3{
