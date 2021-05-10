@@ -146,7 +146,7 @@ a{
 
 #Kopakonan{
     padding: 30px 60px;     
-    background-image: url(../images/paisaje10.jpg), url(../images/paisaje11.jpg), url(../images/paisaje12.jpg);
+    background-image: url(./images/paisaje10.jpg), url(./images/paisaje11.jpg), url(./images/paisaje12.jpg);
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: top, center, bottom;   
     height: 2340px;
