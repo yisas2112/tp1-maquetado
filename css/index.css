@@ -65,6 +65,7 @@ a{
     display: flex;
     text-align: center;
     margin: auto;
+    box-sizing: border-box;
 }
 
 #islas span{
@@ -150,6 +151,7 @@ a{
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: top, center, bottom;   
     height: 2340px;
+    box-sizing: border-box;
     
     
 }
@@ -189,6 +191,7 @@ a{
     height: 700px;    
     color: white;
     padding-top: 40px;
+    box-sizing: border-box;
 }
 
 
