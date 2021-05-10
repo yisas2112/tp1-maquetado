@@ -37,7 +37,7 @@ h2{
 }
 #nav{       
     height: 450px;
-    background-image: url(/images/paisaje5.jpg);     
+    background-image: url("/images/paisaje5.jpg");     
     
     
 }
