@@ -2,7 +2,7 @@ body{
     font-family: "Rubik", sans-serif;
     font-size: 16px;
     margin: auto;
-    background-color: rgb(40,42,53);         
+    background-color: rgb(40,42,53);     
 }
 h1, h2, h3{
     font-family: 'Noto Serif', serif;
@@ -29,7 +29,7 @@ h2{
 
 #container{
     width: 1366px;
-    margin: auto; 
+    margin: 0;
     background-color: #FFFFFF;          
     box-sizing: border-box;
 }
