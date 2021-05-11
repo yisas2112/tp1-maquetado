@@ -31,6 +31,7 @@ h2{
     width: 1366px;
     margin: auto; 
     background-color: #FFFFFF;          
+    box-sizing: border-box;
 }
 #nav{       
     width: 1366px;
@@ -107,6 +108,10 @@ a{
 .historia__imagenes{
     display: flex;
     width: 100%;
+}
+
+.historia__imagen{
+    height: 384px;
 }
 
 #curiosidades{
