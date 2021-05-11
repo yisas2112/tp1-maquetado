@@ -11,8 +11,7 @@ h1, h2, h3{
 }
 
 p{
-    font-family: 'Montserrat', sans-serif;
-    
+    font-family: 'Montserrat', sans-serif;    
     line-height: 40px;
     font-size: 20px;
 }
@@ -31,7 +30,7 @@ h2{
 }
 
 #container{
-    width: 1366px;    
+    width: 100%;
     margin: auto; 
     background-color: #FFFFFF;      
 }
@@ -110,17 +109,9 @@ a{
 
 .historia__imagenes{
     display: flex;
+    width: 100%;
 }
 
-.historia__imagenes__izquierda{
-    width: 950px;
-    height: 380px;
-}
-
-.historia__imagenes__derecha{
-    width: 416px;
-    height: 380px;
-}
 
 #curiosidades{
     background-color: #373737;
